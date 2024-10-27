@@ -9,7 +9,7 @@ public class WishMessageGenerator {
 	public WishMessageGenerator() {
 		System.out.println("WishMessageGenerator.0- param constructor");
 	}
-	
+	// it changed
 	//setter method supporting  Setter Injection
 	public void setDate(Date date) {
 		System.out.println("WishMessageGenerator.setDate(-)");
